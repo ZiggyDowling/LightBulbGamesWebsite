@@ -1,0 +1,62 @@
+.StudioLogo{
+    height: 40%;
+    width: 40%;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(f4f4f4);
+  }
+
+  .NavBar {
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .NavBar a {
+    display: inline-block; 
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin-right: 20px; 
+  }
+
+  .NavBar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.BackButton {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.BackButton a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.BackButton a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.OurSocials a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.OurSocials a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.DoorImage {
+  height: 20%;
+  width: 20%;
+}
